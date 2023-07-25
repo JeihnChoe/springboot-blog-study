@@ -1,0 +1,4 @@
+server:
+  profile:
+   active:
+      -dev
