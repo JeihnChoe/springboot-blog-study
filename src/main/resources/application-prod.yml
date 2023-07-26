@@ -1,7 +1,7 @@
 server:
   servlet:
     encoding:
-      charset: utf-8
+      charset: utf-8mb4
       force: true
   port: 8080
 spring:
